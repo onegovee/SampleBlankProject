@@ -6,7 +6,7 @@
     }
   },
   "Resources" : {
-    "instance" : {
+    "instance345243" : {
       "Type" : "AWS::EC2::Instance",
       "Properties" : {
         
