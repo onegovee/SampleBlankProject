@@ -6,7 +6,12 @@
     }
   },
   "Resources" : {
-    
+    "instance" : {
+      "Type" : "AWS::EC2::Instance",
+      "Properties" : {
+        
+      }
+    }
   },
   "Outputs" : {
     
