@@ -1,4 +1,5 @@
 {
+  "AWSTemplateFormatVersion" : "i just added this",
   "Parameters" : {
     "parameter1": {
       "Type" : "string",
