@@ -4,6 +4,10 @@
     "parameter1": {
       "Type" : "string",
       "Description" : "something"
+    },
+    "parameter2": {
+      "Type" : "string",
+      "Description" : "other stuff"
     }
   },
   "Resources" : {
