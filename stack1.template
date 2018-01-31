@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "change in github after conflict",
+  "AWSTemplateFormatVersion" : "change in github after conflict and then in eclipse",
   "Parameters" : {
     "parameter1": {
       "Type" : "string",
