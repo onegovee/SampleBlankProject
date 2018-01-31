@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "change in github",
+  "AWSTemplateFormatVersion" : "modifying this description in eclipse",
   "Parameters" : {
     "parameter1": {
       "Type" : "string",
