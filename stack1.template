@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "i just added this",
+  "AWSTemplateFormatVersion" : "change in github",
   "Parameters" : {
     "parameter1": {
       "Type" : "string",
