@@ -1,3 +1,4 @@
 {
-  "AWSTemplateFormatVersion" : "change in eclipse"
+  "AWSTemplateFormatVersion" : "change in github",
+  "Description" : "add a non-conflicting change"
 }
