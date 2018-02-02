@@ -7,7 +7,7 @@
     },
     "parameter2": {
       "Type" : "string",
-      "Description" : "other stuff"
+      "Description" : "other stuff added from cloud9"
     }
   },
   "Resources" : {
