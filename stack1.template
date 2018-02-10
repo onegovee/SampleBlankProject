@@ -19,6 +19,7 @@
     }
   },
   "Outputs" : {
+    "logging": "local repo change"
     
   }
 }
