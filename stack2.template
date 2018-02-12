@@ -1,4 +1,8 @@
 {
   "AWSTemplateFormatVersion" : "change in github",
-  "Description" : "add a non-conflicting change"
+  "Description" : "add a non-conflicting change",
+  "Resources" : {
+    "key" : "for branch change",
+    "key2" : "for test-branch2"
+  }
 }
