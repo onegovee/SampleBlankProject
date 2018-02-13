@@ -4,5 +4,6 @@
   "Resources" : {
     "key" : "for branch change",
     "key2" : "for test-branch2 and another change"
+    "key3" : "a change that's not in branch2'"
   }
 }
