@@ -3,6 +3,7 @@
   "Description" : "add a non-conflicting change",
   "Resources" : {
     "key" : "for branch change",
-    "key2" : "for test-branch2"
+    "key2" : "for test-branch2",
+    "key3" : "a change that's not in branch2'"
   }
 }
