@@ -3,6 +3,11 @@
   "Description" : "add a non-conflicting change",
   "Resources" : {
     "key" : "for branch change",
+<<<<<<< HEAD
     "key2" : "this change is in branch1"
+=======
+    "key2" : "for test-branch2 and another change"
+    "key3" : "this change is in master"
+>>>>>>> branch 'master' of https://github.com/onegovee/test.git
   }
 }
