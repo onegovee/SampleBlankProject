@@ -4,6 +4,7 @@
   "Resources" : {
     "key" : "for branch change",
     "key4" : "new changes in branch1 after merge",
-    "key5" : "another change in branch1"
+    "key5" : "another change in branch1",
+    "key6" : "change to the same branch1 file but in master"
   }
 }
