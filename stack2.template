@@ -6,6 +6,6 @@
     "key4" : "new changes in branch1 after merge",
     "key5" : "another change in branch1",
     "key6" : "change to the same branch1 file but in master",
-    "key7" : "new changes on another branch1"
+    "key7" : "new changes on another branch1 continue to make changes in branch1"
   }
 }
