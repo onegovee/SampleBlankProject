@@ -3,6 +3,7 @@
   "Description" : "add a non-conflicting change",
   "Resources" : {
     "key" : "for branch change",
-    "key4" : "new changes in branch1 after merge"
+    "key4" : "new changes in branch1 after merge",
+    "key6" : "change to the same branch1 file but in master"
   }
 }
