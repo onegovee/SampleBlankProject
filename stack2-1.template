@@ -7,5 +7,6 @@
     "key5" : "another change in branch1",
     "key6" : "change to the same branch1 file but in master",
     "key8" : "change to master outside of branch1 more changes in master"
+    "key9" : "another change"
   }
 }
