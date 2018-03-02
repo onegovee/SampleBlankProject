@@ -10,5 +10,6 @@
     "key9" : "another change",
     "key10" : "whatever",
     "key11" : "change outside of untracked folder in branch",
+    "key12" : "make branch change"
   }
 }
