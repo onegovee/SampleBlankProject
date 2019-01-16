@@ -9,8 +9,6 @@
     "key8" : "change to master outside of branch1 more changes in master",
     "key9" : "another change",
     "key10" : "whatever",
-    "key11" : "change outside of untracked folder in branch",
-    "key12" : "make branch change",
-    "key13" : "a change in branch 1 that i was to revert"
+    "key11" : "change outside of untracked folder in branch"
   }
 }
